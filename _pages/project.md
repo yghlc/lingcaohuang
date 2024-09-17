@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Earth and Atmospheric Sciences, The Chinese University of Hong Kong, 2019
-* Exchange Student, in Water Resources, University of Alberta, 2018
-* M.Eng. in Photogrammetry and Remote Sensing, Wuhan University, 2013
-* B.Eng. in Remote Sensing Science and Technology, Wuhan University, 2011
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
