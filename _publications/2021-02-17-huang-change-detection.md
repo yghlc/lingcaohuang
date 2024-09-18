@@ -3,7 +3,7 @@ title: "Detecting Changes of Retrogressive Thaw Slumps from Satellite Images Usi
 collection: publications
 category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
-# excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Testing a idea of change detection of thaw slumps using a Siamese neural network'
 date: 2021-02-17
 venue: 'IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium'
 paperurl: 'https://doi.org/10.1109/igarss39084.2020.9323780'
