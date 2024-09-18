@@ -28,7 +28,7 @@ I am a Research Assistant Professor at the Institute of Space and Earth Informat
 ### Research projects:
 - "Using vision language models and remote sensing to map permafrost degradation in the Arctic and analyzing its spatial distribution",  National Natural Science Foundation of China (NSFC) Young Scientists Fund, 2025--2027. (PI) 
 - "Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality", Hong Kong Research Grants Council (RGC) General Research Fund (GRF), 2025--2027. (PI) 
-- "Using vision language models to automatically identify landslides from very high-resolution satellite imagery", CUHK Direct Grants (HKD 100,000), 2024--2025. (PI)
+- "Using vision language models to automatically identify landslides from very high-resolution satellite imagery", CUHK Direct Grants, 2024--2025. (PI)
 
 
 <!---open source prjects--->
