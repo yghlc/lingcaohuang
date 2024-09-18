@@ -13,7 +13,7 @@ I use remote sensing to observe the changes on Earth's surface and try to unders
 The main motivation is to understand the impacts caused by anthropogenic climate change on the Earth's system and to provide data and calibration for future projection, which is crucial for building a sustainable society. 
 Currently, I am working on mapping the abrupt thaw of perennially frozen ground (aka. permafrost) such as retrogressive thaw slumps at a continental scale, and analyzing the controlling factors for their initiation and evolution. 
 Due to the small size of the abrupt thaw on satellite imagery and large-scale mapping, I use high-resolution (≤ 10 m) imagery, deep learning, and supercomputers to handle the big data. 
-I am also interested in applying deep learning for computer vision tasks on remote sensing imagery and technical innovation in large-scale mapping and feature extraction using artificial intelligence and super-computing. 
+I am also interested in applying deep learning for computer vision tasks on multi-scale imagery and technical innovation in large-scale mapping and feature extraction using artificial intelligence and super-computing. 
 
 <!--- especially  focusing on the frozen ground in Tibet and circumpolar regions. --->
 
