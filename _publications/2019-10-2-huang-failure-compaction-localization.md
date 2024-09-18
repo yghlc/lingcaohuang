@@ -1,0 +1,14 @@
+---
+title: "Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone"
+collection: publications
+category: manuscripts
+# permalink: /publication/2009-10-01-paper-title-number-1
+# excerpt: ''
+date: 2019-10-2
+venue: 'EARTH AND PLANETARY SCIENCE LETTERS'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.epsl.2019.115831'
+citation: 'Huang, L., Baud, P., Cordonnier, B., Renard, F., Liu, L., Wong, T., 2019. Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone. Earth Planet Sc Lett 528, 115831.'
+---
+
+Understanding failure and strain localization in porous rock is of fundamental importance in rock physics. Confined compaction experiments on porous rocks have revealed a broad spectrum of failure modes. Techniques such as acoustic emission location and velocity tomography provide kinematic information on the partitioning of damage and localization of strain. Complementary observations on deformed samples using microscopy and microcomputed tomography (μCT) can also be used to image microscale damage and its distribution. Only by synthesizing such measurements on multiple scales could one infer the multiscale dynamics of compaction localization and similar rock failure phenomena. Located at the European Synchrotron Radiation Facility, the HADES rig allows direct in situ 3D imaging of the whole rock sample as it is triaxially compressed. The μCT data provide an integrated perspective of the spatiotemporal evolution of damage and strain localization on scales ranging from grain to continuum. We conducted an experiment on Leitha limestone (initial porosity of ∼22%) at a confining pressure of 20 MPa. With increasing differential stress, the sample strain hardened and two distinct yield points were identified in the stress-strain curve. The spatiotemporal evolution of local porosity and damage were analyzed at multiple scales. At a mesoscopic scale of 10 voxels (65 μm), the time-lapse μCT images reveal the strain partitioning associated with the first yield point and development of strain localization with the second. The latter development of five discrete compaction bands is the first unambiguous observation of such a bifurcation phenomenon in a porous carbonate rock, with geometric attributes comparable to compactions bands observed in porous sandstones. The μCT data on the voxel-scale elucidate in refined details the nucleation and propagation of discrete compaction bands under quasi-static loading, as well as the micromechanical processes, which in the past could only be inferred from a synthesis of kinematic observations of acoustic emissions activity and post-mortem observations of microstructure and damage.

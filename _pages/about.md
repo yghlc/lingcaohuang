@@ -30,6 +30,7 @@ I am a Research Assistant Professor at the Institute of Space and Earth Informat
 - "Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality", Hong Kong Research Grants Council (RGC) General Research Fund (GRF), 2025--2027. (PI) 
 - "Using vision language models to automatically identify landslides from very high-resolution satellite imagery", CUHK Direct Grants, 2024--2025. (PI)
 
+Please contact me if you are interested in contributing to these projects and collaboration. 
 
 <!---open source prjects--->
 ### My email addresses: 
