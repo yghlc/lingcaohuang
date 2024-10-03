@@ -9,7 +9,7 @@ redirect_from:
 
 <!---about my research and expertise
  --->
-I am a Research Assistant Professor at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). I have an engineering background in information on remote sensing and photogrammetry and have strong skills in image processing and feature extraction. I started focusing on scientific questions in the Earth's system, especially Permafrost, when became a PhD student in 2016. During my leisure time, I play badminton regularly and also participate in amateur competitions sometimes. 
+I am a Research Assistant Professor at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). I have an engineering background in information on remote sensing and photogrammetry and have strong skills in image processing and feature extraction. I shifted my focus to monitoring changes on Earth's surface, especially permafrost, and understanding the controlling factors when I became a PhD student in 2016. During my leisure time, I play badminton regularly and also participate in amateur competitions occasionally. 
 
 ### Research:
 I use remote sensing to observe the changes on Earth's surface and try to understand the deriving factors by combining modeling and various data including topography, meteorology, and in-situ measurement, with a focus on the cold regions and coastal areas. 
