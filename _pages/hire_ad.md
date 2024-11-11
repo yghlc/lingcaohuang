@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Assistant for a Project on Remote Sensing of Permafrost
 
-The Institute of Space and Earth Information Science at The Chinese University of Hong Kong (CUHK) is hiring a research assistant (RA) to work on a GRF project titled: “Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality”. (The abstract is attached).
+The Institute of Space and Earth Information Science at The Chinese University of Hong Kong (CUHK) is hiring a research assistant (RA) to work on a project titled: “Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality” (The abstract is attached) funded by Hong Kong Research Grants Council from 2025 to 2027.
 
 **Applicants should meet at least three of the following requirements:**
 (i) a good university degree preferably in remote sensing, geodesy and surveying, geophysics, and computer science. Other majors will be considered as well; 
@@ -16,7 +16,7 @@ The Institute of Space and Earth Information Science at The Chinese University o
 (v) A self-motivated and enthusiastic professional in physical geography.
 
 **What we offer:**
-Appointment will initially be made on a contract basis for one year, commencing January 2025, and is renewable subject to performance, mutual agreement, and available funding. We will provide a welcoming working environment, cutting-edge computing resources, professional development and mentorship, and highly competitive salaries and benefits. The RA will closely work with Dr. Lingcao Huang (https://yghlc.github.io/lingcaohuang/) who is a research assistant professor at CUHK.
+Appointment will initially be made on a contract basis for one year, commencing January or February 2025, and is renewable subject to performance, mutual agreement, and available funding. We will provide a welcoming working environment, cutting-edge computing resources, professional development and mentorship, and highly competitive salaries and benefits. The RA will closely work with Dr. Lingcao Huang (https://yghlc.github.io/lingcaohuang/) who is a research assistant professor at CUHK.
 
 **How to apply:**
 If you are interested in this position, please send your CV to [lingcaohuang@cuhk.edu.hk](mailto:lingcaohuang@cuhk.edu.hk) with the subject: 'RA14302324 + Your Name.' Review of applications will start on November 30, 2024, but will continue until the position is filled. Only shortlisted applicants will be contacted for a two-page research statement, interview, and other documents (e.g. a reference letter and certificates).
