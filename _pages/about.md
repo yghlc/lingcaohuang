@@ -34,7 +34,7 @@ I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from 
 - "Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality", Hong Kong Research Grants Council (RGC) General Research Fund (GRF), 2025--2027. (PI) 
 - "Using vision language models to automatically identify landslides from very high-resolution satellite imagery", CUHK Direct Grants, 2024--2025. (PI)
 
-I am hiring research assistants to help with these projects, please contact me if you are interested in these projects, and welcome collaboration. 
+I am hiring research assistants ([opportunities](/lingcaohuang/opportunities)) to help with these projects, please contact me if you are interested in these projects, and welcome collaboration. 
 
 <!---open source prjects--->
 ### My email addresses: 
