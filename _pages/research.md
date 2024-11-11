@@ -1,10 +1,8 @@
 ---
-layout: page
-title: "Research"
 permalink: /research/
+title: "Research"
+author_profile: true
 ---
-
-## Research 
 
 ### Identifying abrupt permafrost thaw at continental scale
 ![Figure 1](../images/thawslump_points_density_v2_trim.jpg)
