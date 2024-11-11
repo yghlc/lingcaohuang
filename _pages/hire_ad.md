@@ -4,6 +4,8 @@ title: "Opportunities"
 author_profile: true
 ---
 
+## Research Assistant for a Project on Remote Sensing of Permafrost
+
 The Institute of Space and Earth Information Science at The Chinese University of Hong Kong (CUHK) is hiring a research assistant (RA) to work on a GRF project titled: “Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality”. (The abstract is attached).
 
 **Applicants should meet at least three of the following requirements:**
