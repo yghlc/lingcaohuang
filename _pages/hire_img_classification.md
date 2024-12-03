@@ -15,7 +15,8 @@ This position aims to develop deep-learning-based algorithms to classify satelli
 
 
 **How to apply:**
-If you’re interested in these positions or any collaborations, please contact [Dr. Lingcao Huang](https://yghlc.github.io/lingcaohuang/) and attach your CV to [lingcaohuang@cuhk.edu.hk](mailto:lingcaohuang@cuhk.edu.hk) with the subject line: ‘Help14302324 + Your Name.’ We’ll provide a welcoming work environment and cutting-edge computing resources.  
+If you’re interested in these positions, please contact [Dr. Lingcao Huang](https://yghlc.github.io/lingcaohuang/) and attach your CV to [lingcaohuang@cuhk.edu.hk](mailto:lingcaohuang@cuhk.edu.hk) with the subject line: ‘Help14302324 + Your Name.’ We’ll provide a welcoming work environment and cutting-edge computing resources. 
+If you are interested in this research, please don't hesitate to get in touch with Dr. Lingcao Huang. We welcome any collaborations.
 <!--  We prefer applicants with experience in deep learning, image classification, AI foundation models, Python programming, and Linux.  -->
 
 
