@@ -16,6 +16,6 @@ I also contributed to multiple studies mapping abrupt permafrost thaw on the Tib
 
 
 
-### Applying deep learing for remote sensing observations
+### Applying deep learing for remote sensing applications
 
 
