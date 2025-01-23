@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### Monitoring permafrost thaw at regional and continental scale
+### Monitoring permafrost thaw at regional and continental scales from space
 ![Figure 1](../images/thawslump_points_density_v2_trim.jpg)
 
 **Hightlight:** 
