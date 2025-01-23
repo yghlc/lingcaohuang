@@ -24,12 +24,20 @@ I also contributed to multiple studies mapping abrupt permafrost thaw on the Tib
 This study innovatively developed a workflow (i.e. [*BigImageMapper*](https://github.com/yghlc/BigImageMapper)) based on the state-of-the-art DL techniques and open-source packages such as GDAL, RasterIO, and GeoPandas to automatically process large imagery and GIS vector data. It allows the direct input of large remote sensing imagery and vector data into DL algorithms and saves the DL output as GIS vector files, such as ESRI shapefiles, for further validation and analysis in GIS software. 
 
 
-By collaborating with colleagues in different research fields, I extended DL algorithms and the similar workflow to other reemote-sensing-based Earth Observations. We applied the DL method for delineating the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery (Zhang et al., [2019](https://doi.org/10.5194/tc-13-1729-2019), [2021](https://doi.org/10.1016/j.rse.2020.112265)). We combined InSAR and DL techniques and to map and Characterize rock glaciers in the Arid Western Kunlun Mountains ([Hu et al., 2023](https://doi.org/10.1029/2023jf007206)). I also contributed to the work that used DL to map glacier lakes from multi-source satellite imagery ([Xu et al., 2024](https://doi.org/10.1016/j.srs.2024.100157)). By comparing the adaptive thresholding and DL for detecting flood extent in Houston, TX from sentinel-1A/B synthetic aperture radar, we concluded that thresholding is efficent and effective at identifying small scale floodf eatures in terms of precision, while the DL method was also effective but may miss more small scale features. 
+By collaborating with colleagues from different research fields, I extended DL algorithms and a similar workflow to other remote-sensing-based Earth Observations. We applied the DL method to delineate the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery (Zhang et al., [2019](https://doi.org/10.5194/tc-13-1729-2019), [2021](https://doi.org/10.1016/j.rse.2020.112265)). Additionally, we combined InSAR and DL techniques to map and characterize rock glaciers in the arid Western Kunlun Mountains ([Hu et al., 2023](https://doi.org/10.1029/2023jf007206)). I also contributed to work that used DL to map glacier lakes from multi-source satellite imagery ([Xu et al., 2024](https://doi.org/10.1016/j.srs.2024.100157)). By comparing adaptive thresholding and DL for detecting flood extent in Houston, TX, using Sentinel-1A/B synthetic aperture radar, we concluded that thresholding is efficient and effective at identifying small-scale flood features in terms of precision. However, while the DL method was also effective and performed well in noisy regions, it may miss more small-scale features ([Tiampo et al., 2022](https://doi.org/10.3390/rs14092261)).
 
 
 
-### Other interesting reserach
+
+### Image processing for understanding multiscale failure and compaction localization in triaxially compressed porous limestone
+I contributed to rock physics projects that used 4D synchrotron X-ray imaging to observe the multiscale failure and compaction  localization as in porous limestone. 
+
+Huang, L., Baud, P., Cordonnier, B., Renard, F., Liu, L. & Wong, T. (2019). Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone. Earth and Planetary Science Letters, 528, 115831. https://doi.org/10.1016/j.epsl.2019.115831
+
+Meng, F., Huang, L., Baud, P. & Wong, T. (2022). Strain Localization in 4D Imaged by X-ray Computed Tomography and Digital Volume Correlation: Discrete Compaction Bands in Leitha Limestone. Journal of the Mechanics and Physics of Solids, 105160. https://doi.org/10.1016/j.jmps.2022.105160
 
 
-<!-- glacier lakes, rock glacier, claving fronts in Greenland, flooding -->
+Meng, F., Huang, L., Baud, P. & Wong, T. (2022). Spatiotemporal Evolution of Strain and Compaction Localization in Leitha Limsestone: Synchrotron Tomographic Imaging and Digital Volume Correlation. Springer Series in Geomechanics and Geoengineering, 31–40. https://doi.org/10.1007/978-3-031-22213-9_4
+
+
 
