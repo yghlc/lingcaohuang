@@ -30,14 +30,15 @@ By collaborating with colleagues from different research fields, I extended DL a
 
 
 ### Image processing for understanding multiscale failure and compaction localization in triaxially compressed porous limestone
-I contributed to rock physics projects that used 4D synchrotron X-ray imaging to observe the multiscale failure and compaction  localization as in porous limestone. 
+I contributed to rock physics projects that used 4D synchrotron X-ray imaging to observe the multiscale failure and compaction  localization in porous limestone. The research provides detailed insights into the multiscale dynamics of rock failure, ranging from the grain scale to the continuum scale, by conducting a single triaxial compression experiment on Leitha limestone and performing 4D image analysis ([Huang et al., 2019](https://doi.org/10.1016/j.epsl.2019.115831); Meng et al., [2022a](https://doi.org/10.1016/j.jmps.2022.105160) and [2022b](https://doi.org/10.1007/978-3-031-22213-9_4)).
 
+<!-- 
 Huang, L., Baud, P., Cordonnier, B., Renard, F., Liu, L. & Wong, T. (2019). Synchrotron X-ray imaging in 4D: Multiscale failure and compaction localization in triaxially compressed porous limestone. Earth and Planetary Science Letters, 528, 115831. https://doi.org/10.1016/j.epsl.2019.115831
 
 Meng, F., Huang, L., Baud, P. & Wong, T. (2022). Strain Localization in 4D Imaged by X-ray Computed Tomography and Digital Volume Correlation: Discrete Compaction Bands in Leitha Limestone. Journal of the Mechanics and Physics of Solids, 105160. https://doi.org/10.1016/j.jmps.2022.105160
 
 
-Meng, F., Huang, L., Baud, P. & Wong, T. (2022). Spatiotemporal Evolution of Strain and Compaction Localization in Leitha Limsestone: Synchrotron Tomographic Imaging and Digital Volume Correlation. Springer Series in Geomechanics and Geoengineering, 31–40. https://doi.org/10.1007/978-3-031-22213-9_4
+Meng, F., Huang, L., Baud, P. & Wong, T. (2022). Spatiotemporal Evolution of Strain and Compaction Localization in Leitha Limsestone: Synchrotron Tomographic Imaging and Digital Volume Correlation. Springer Series in Geomechanics and Geoengineering, 31–40. https://doi.org/10.1007/978-3-031-22213-9_4 -->
 
 
 
