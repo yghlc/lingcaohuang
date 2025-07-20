@@ -12,17 +12,17 @@ redirect_from:
 I am a Research Assistant Professor at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). I have an engineering background in information on remote sensing and photogrammetry and have strong skills in image processing and feature extraction. I shifted my focus to monitoring changes on Earth's surface, especially permafrost, and understanding the controlling factors when I started pursuing my PhD in 2016. <!-- During my leisure time, I play badminton regularly and also participate in amateur competitions occasionally.  -->
 
 ### Research:
-I use remote sensing to observe the changes on Earth's surface and try to understand the deriving factors by combining modeling and various data including topography, meteorology, and in-situ measurement, with a focus on the cold regions and coastal areas. 
-The main motivation is to understand the impacts caused by anthropogenic climate change on the Earth's system and to provide data and calibration for future projection, which is crucial for building a sustainable society. 
-Currently, I am working on mapping the abrupt thaw of permafrost such as retrogressive thaw slumps at a continental scale, and analyzing the controlling factors for their initiation and evolution. 
+I use remote sensing to observe the changes on Earth's surface and try to understand the driving factors by combining modeling and various data, including topography, meteorology, and in-situ measurement, with a focus on the cold regions and coastal areas. 
+The main motivation is to understand the impacts caused by anthropogenic climate change on the Earth's system and to provide data and calibration for future projections, which is crucial for building a sustainable society. 
+Currently, I am working on mapping the abrupt thaw of permafrost, such as retrogressive thaw slumps at a continental scale, and analyzing the controlling factors for their initiation and evolution. 
 Due to the small size of the abrupt thaw on satellite imagery and large-scale mapping, I use high-resolution (≤ 10 m) imagery, deep learning, and supercomputers to handle the big data. 
-I am also interested in applying deep learning for computer vision tasks on multi-scale imagery, technical innovation in large-scale mapping, and feature extraction using artificial intelligence and super-computing. 
+I am also interested in applying deep learning for computer vision tasks on multi-scale imagery, technical innovation in large-scale mapping, and feature extraction using artificial intelligence and supercomputing. 
 
 
 <!--- especially  focusing on the frozen ground in Tibet and circumpolar regions.
 --->
 ### Experience:  
-I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from Wuhan University and then worked as a laboratory assistant at Xiamen University of Technology for over two years. I received my Ph.D. in Earth and Atmospheric Sciences from CUHK in 2019 and worked as a Postdoc for a short period. From 2020 to 2022, I was awarded a CIRES Visiting Fellowship and worked as a postdoctoral associate at the University of Colorado Boulder. I also worked with some professors and scientists within PermafrostNet in Canada and spent five months at the University of Victoria before joining CUHK in 2023. 
+I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from Wuhan University, and then worked as a laboratory assistant at Xiamen University of Technology for over two years. I received my Ph.D. in Earth and Atmospheric Sciences from CUHK in 2019 and worked as a Postdoc for a short period. From 2020 to 2022, I was awarded a CIRES Visiting Fellowship and worked as a postdoctoral associate at the University of Colorado Boulder. I also worked with some professors and scientists within PermafrostNet in Canada and spent five months at the University of Victoria before joining CUHK in 2023. 
 
 
 <!---how many papers did I published? mentioned award?--->
