@@ -44,6 +44,7 @@ I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from 
 <!---open source prjects--->
 ### My email addresses: 
 
-- lingcaohuang@cuhk.edu.hk 
+- huanglingcao@link.cuhk.edu.hk
+- lingcaohuang@cuhk.edu.hk (deactivated) <!-- will be deactivated after August 20, 2026 -->
 - lingcao.huang@colorado.edu (deactivated) <!-- deactivated since September 2025 -->
 - lingcaohuang@uvic.ca (deactivated) <!--  deactivated since June 2024 -->
