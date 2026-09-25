@@ -9,7 +9,7 @@ redirect_from:
 
 <!---about my research and expertise
  --->
-I am a Research Assistant Professor at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). I have an engineering background in information on remote sensing and photogrammetry and have strong skills in image processing and feature extraction. I shifted my focus to monitoring changes on Earth's surface, especially permafrost, and understanding the controlling factors when I started pursuing my PhD in 2016. <!-- During my leisure time, I play badminton regularly and also participate in amateur competitions occasionally.  -->
+I am a Research Associate at the Department of Earth and Environmental Sciences, The Chinese University of Hong Kong (CUHK). I have an engineering background in information on remote sensing and photogrammetry and have strong skills in image processing and feature extraction. I shifted my focus to monitoring changes on Earth's surface, especially permafrost, and understanding the controlling factors when I started pursuing my PhD in 2016. <!-- During my leisure time, I play badminton regularly and also participate in amateur competitions occasionally.  -->
 
 ### Research:
 I use remote sensing to observe the changes on Earth's surface and try to understand the driving factors by combining modeling and various data, including topography, meteorology, and in-situ measurement, with a focus on the cold regions and coastal areas. 
@@ -22,7 +22,7 @@ I am also interested in applying deep learning for computer vision tasks on mult
 <!--- especially  focusing on the frozen ground in Tibet and circumpolar regions.
 --->
 ### Experience:  
-I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from Wuhan University, and then worked as a laboratory assistant at Xiamen University of Technology for over two years. I received my Ph.D. in Earth and Atmospheric Sciences from CUHK in 2019 and worked as a Postdoc for a short period. From 2020 to 2022, I was awarded a CIRES Visiting Fellowship and worked as a postdoctoral associate at the University of Colorado Boulder. I also worked with some professors and scientists within PermafrostNet in Canada and spent five months at the University of Victoria before joining CUHK in 2023. 
+I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from Wuhan University, and then worked as a laboratory assistant at Xiamen University of Technology for over two years. I received my Ph.D. in Earth and Atmospheric Sciences from CUHK in 2019 and worked as a Postdoc for a short period. From October 2020 to February 2023, I was awarded a CIRES Visiting Fellowship and worked as a postdoctoral associate at the University of Colorado Boulder. I also worked with some professors and scientists within PermafrostNet in Canada from March to July 2023 at the University of Victoria. I worked as a Research Assistant Professor and taught a remote sensing course at the Institute of Space and Earth Information Science, CUHK from August 2023 to August 2026. 
 
 
 <!---how many papers did I published? mentioned award?--->
@@ -31,7 +31,7 @@ I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from 
 
 ### Research projects:
 - "Using vision language models and remote sensing to map permafrost degradation in the Arctic and analyzing its spatial distribution",  National Natural Science Foundation of China (NSFC) Young Scientists Fund, 2025--2027. (PI) 
-- "Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality", Hong Kong Research Grants Council (RGC) General Research Fund (GRF), 2025--2027. (PI) 
+- "Carbon release from abrupt thaw of frozen ground in the Arctic and its impacts on carbon neutrality", Hong Kong Research Grants Council (RGC) General Research Fund (GRF), 2025--2027. (PI: 2025-2026, Co-I: 2027) 
 - "Using vision language models to automatically identify landslides from very high-resolution satellite imagery", CUHK Direct Grants, 2024--2025. (PI)
 
 <!-- I am hiring research assistants to help with these projects, please contact me if you are interested in these projects, and welcome collaboration. 
@@ -44,7 +44,7 @@ I obtained my B.Eng and M.Eng degrees in remote sensing and photogrammetry from 
 <!---open source prjects--->
 ### My email addresses: 
 
-- huanglingcao@link.cuhk.edu.hk
-- lingcaohuang@cuhk.edu.hk (deactivated) <!-- will be deactivated after August 20, 2026 -->
+<!-- - huanglingcao@link.cuhk.edu.hk -->
+- lingcaohuang@cuhk.edu.hk <!-- will be deactivated after January 20, 2027 -->
 - lingcao.huang@colorado.edu (deactivated) <!-- deactivated since September 2025 -->
 - lingcaohuang@uvic.ca (deactivated) <!--  deactivated since June 2024 -->
